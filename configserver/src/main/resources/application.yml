@@ -9,8 +9,6 @@ spring:
         git:
           uri: https://github.com/Eason-ops/aispringcloud.git
           searchPaths: config
-          username: Eason-ops
-          password: Aiwodeni19910113
       label: master
 eureka:
   client:
